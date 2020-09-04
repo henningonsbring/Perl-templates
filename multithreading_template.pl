@@ -5,7 +5,6 @@ use strict;
 use warnings;
 use threads;
 
-my $global_num = 0;
 my $n_threads = 4;
 my @thr = ();
 
